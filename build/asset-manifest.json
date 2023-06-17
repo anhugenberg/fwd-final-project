@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/fwd-final-project/static/css/main.c2e7432c.css",
+    "main.js": "/fwd-final-project/static/js/main.39171185.js",
+    "static/media/table6.png": "/fwd-final-project/static/media/table6.fcbe112450cf89321423.png",
+    "static/media/table5.png": "/fwd-final-project/static/media/table5.5d35f1fcda8068c6e697.png",
+    "static/media/table4.png": "/fwd-final-project/static/media/table4.92f6d30f1a395e0281ec.png",
+    "index.html": "/fwd-final-project/index.html",
+    "main.c2e7432c.css.map": "/fwd-final-project/static/css/main.c2e7432c.css.map",
+    "main.39171185.js.map": "/fwd-final-project/static/js/main.39171185.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c2e7432c.css",
+    "static/js/main.39171185.js"
+  ]
+}
